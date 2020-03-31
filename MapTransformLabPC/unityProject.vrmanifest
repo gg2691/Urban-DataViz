@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.maptransformlabpc.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\jjl2245\\Documents\\GitHub\\CGUI_Development\\MapTransformLabPC\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "MapTransformLabPC [Testing]"
+        }
+      }
+    }
+  ]
+}
